@@ -2,10 +2,6 @@
 
 Template starter with React Navigation Bottom Tabs and Firebase auth using React Context
 
-# Preview
-
-![../media/authflow.png](../media/authflow.png)
-
 # Installation
 
 1. Install [node.js](https://nodejs.org/en/)
@@ -215,7 +211,3 @@ These are the folders and the functionality
 /provider -> for React Context
 /screens -> for Screens
 ```
-
-if you find these useful don't forget to give it a star ⭐ and share it to your friends ❤️
-
-Reach me on [twitter](https://twitter.com/kikiding/)
